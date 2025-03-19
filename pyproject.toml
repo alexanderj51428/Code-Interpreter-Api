@@ -1,0 +1,5 @@
+[project]
+name = "code-interpreter-api"
+version = "0.1.0"
+description = "Committed to being the best code interpreter in the world."
+requires-python = ">=3.10"
